@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- * main - this  describes the main function of the code
+ * main - this adesribes the main function of the code
  * Return: 0
  */
 int main(void)
 {
 	char a;
 	int b;
-	long int c;
+	long ini c;
 	long long int d;
 	float e;
 
