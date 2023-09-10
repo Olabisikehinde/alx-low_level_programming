@@ -9,16 +9,11 @@
 
 int main(void)
 {
-	char letter;
+	int l;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-
-	{
-	if (letter != 'e' && letter != 'q')
-	putchar(letter);
-	}
-
-	putchar('\n');
+	for (l = 0; l < 10; l++)
+		printf("%d", l);
+	printf("\n");
 
 	return (0);
 }
