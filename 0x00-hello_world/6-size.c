@@ -3,7 +3,7 @@
  * main - this describes the main function of the code
  * Return: (0)
  */
-int main(voi)
+int main(void)
 {
 	int i;
 	float f;
